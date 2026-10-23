@@ -98,6 +98,7 @@ The goal is simple: turn noisy basketball data into a clearer, faster, more prof
 ![Screen 2](./assets/screenshots/screen2.png)
 ![Screen 3](./assets/screenshots/screen3.png)
 ![Screen 4](./assets/screenshots/screen4.png)
+![Screen 5](./assets/screenshots/screen5.png)
 
 ## The unfair advantage
 
