@@ -1,15 +1,15 @@
 # NBA Insight
 
-[![Live Site](https://img.shields.io/badge/Live-nbainsight.com-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://nbainsight.com)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-2ea44f?style=for-the-badge)](https://nbainsight.com)
-[![AI Edge](https://img.shields.io/badge/AI-Modeling%20%2B%20Mathematics-ff6f00?style=for-the-badge)](https://nbainsight.com)
-[![NBA](https://img.shields.io/badge/NBA-Live%20Intelligence-1d428a?style=for-the-badge)](https://nbainsight.com)
-[![Auth](https://img.shields.io/badge/Auth-Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)](https://nbainsight.com)
-[![Billing](https://img.shields.io/badge/Billing-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://nbainsight.com)
+[![Live Site](https://img.shields.io/badge/Live-nbainsight.com-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://nbainsight.vercel.app/)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-2ea44f?style=for-the-badge)](https://nbainsight.vercel.app/)
+[![AI Edge](https://img.shields.io/badge/AI-Modeling%20%2B%20Mathematics-ff6f00?style=for-the-badge)](https://nbainsight.vercel.app/)
+[![NBA](https://img.shields.io/badge/NBA-Live%20Intelligence-1d428a?style=for-the-badge)](https://nbainsight.vercel.app/)
+[![Auth](https://img.shields.io/badge/Auth-Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)](https://nbainsight.vercel.app/)
+[![Billing](https://img.shields.io/badge/Billing-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://nbainsight.vercel.app/)
 
 > **The market moves in seconds. NBA Insight moves first.**
 
-**[Enter NBA Insight Now → nbainsight.com](https://nbainsight.com)**
+**[Enter NBA Insight Now → nbainsight.com](https://nbainsight.vercel.app/)**
 
 ![NBA Insight banner](./assets/banner.png)
 
@@ -113,7 +113,7 @@ That is the difference between watching the game and attacking it.
 
 ## Start now
 
-**[Go to nbainsight.com and get the edge →](https://nbainsight.com)**
+**[Go to nbainsight.com and get the edge →](https://nbainsight.vercel.app/)**
 
 Free to start. Upgrade when you are tired of being late.
 
