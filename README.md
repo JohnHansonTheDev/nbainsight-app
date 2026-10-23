@@ -4,8 +4,8 @@
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-2ea44f?style=for-the-badge)](https://nbainsight.vercel.app/)
 [![AI Edge](https://img.shields.io/badge/AI-Modeling%20%2B%20Mathematics-ff6f00?style=for-the-badge)](https://nbainsight.vercel.app/)
 [![NBA](https://img.shields.io/badge/NBA-Live%20Intelligence-1d428a?style=for-the-badge)](https://nbainsight.vercel.app/)
-[![Auth](https://img.shields.io/badge/Auth-Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)](https://nbainsight.vercel.app/)
-[![Billing](https://img.shields.io/badge/Billing-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://nbainsight.vercel.app/)
+[![Neural](https://img.shields.io/badge/Neural-Networks-7c3aed?style=for-the-badge)](https://nbainsight.vercel.app/)
+[![Models](https://img.shields.io/badge/AI-Latest%20Models-ff6f00?style=for-the-badge)](https://nbainsight.vercel.app/)
 
 > **The market moves in seconds. NBA Insight moves first.**
 
@@ -64,7 +64,7 @@ If you are still refreshing five different sites, you are already behind.
 
 ## Built like a machine, not a blog
 
-NBA Insight combines a modern static frontend with a serious backend intelligence layer:
+NBA Insight is powered by a serious intelligence layer:
 
 - **Neural network-driven prediction systems** trained on massive basketball datasets
 - **Latest-generation AI models** for probability, edge, and prop intelligence
