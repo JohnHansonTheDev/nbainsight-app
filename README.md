@@ -1,6 +1,6 @@
 # NBA Insight
 
-[![Live Site](https://img.shields.io/badge/Live-nbainsight.com-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://nbainsight.vercel.app/)
+[![Live Site](https://img.shields.io/badge/Live-nbainsight.com-00C853?style=for-the-badge&)](https://nbainsight.vercel.app/)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-2ea44f?style=for-the-badge)](https://nbainsight.vercel.app/)
 [![AI Edge](https://img.shields.io/badge/AI-Modeling%20%2B%20Mathematics-ff6f00?style=for-the-badge)](https://nbainsight.vercel.app/)
 [![NBA](https://img.shields.io/badge/NBA-Live%20Intelligence-1d428a?style=for-the-badge)](https://nbainsight.vercel.app/)
