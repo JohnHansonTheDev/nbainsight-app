@@ -13,6 +13,8 @@
 
 ![NBA Insight banner](./assets/banner.png)
 
+![Screen 6](./assets/screenshots/screen6.png)
+
 ## Stop guessing. Start knowing.
 
 NBA Insight is a live basketball intelligence platform built for people who want the edge before the edge disappears. It fuses **real-time NBA data**, **AI-driven modeling**, **mathematician-grade projections**, **live odds**, **injury intelligence**, and **market movement** into one fast, clean, decision-ready experience.
