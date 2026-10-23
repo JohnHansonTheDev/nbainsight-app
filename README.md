@@ -66,12 +66,12 @@ If you are still refreshing five different sites, you are already behind.
 
 NBA Insight combines a modern static frontend with a serious backend intelligence layer:
 
-- **Supabase** for authentication, entitlements, and subscription state
-- **Row-level security** and token-guarded RPCs for server-side gating
-- **Vercel** for fast global delivery
-- **PayPal subscriptions** for recurring billing
-- **ESPN live data** for scores, clocks, summaries, and play-by-play
-- **AI modeling and mathematical projection logic** for picks, edges, and prop intelligence
+- **Neural network-driven prediction systems** trained on massive basketball datasets
+- **Latest-generation AI models** for probability, edge, and prop intelligence
+- **Real-time inference pipelines** that react as games unfold
+- **Advanced predictive engines** for spreads, totals, confidence, and market edges
+- **Secure account and subscription infrastructure** for premium access
+- **Global low-latency delivery** for an instant experience worldwide
 
 The result is a platform that feels instant to users and dangerous to competitors.
 
@@ -79,14 +79,12 @@ The result is a platform that feels instant to users and dangerous to competitor
 
 This is not a highlight reel. NBA Insight is built around:
 
-- Probability-aware pick generation
-- Spread and total modeling
-- Confidence scoring
-- Edge detection
-- Four Factors analysis
-- Form, travel, rest, and injury context
-- Market-aware interpretation
-- Player prop projection logic
+- Neural networks trained on historical and live basketball data
+- Latest AI models for probability, edge, and prop intelligence
+- Deep learning inference that reacts to game state in real time
+- Advanced predictive engines for spreads, totals, and player props
+- Market-aware intelligence for line movement and opportunity detection
+- Continuous model evolution powered by modern machine learning systems
 
 The goal is simple: turn noisy basketball data into a clearer, faster, more profitable decision.
 
@@ -119,7 +117,7 @@ Free to start. Upgrade when you are tired of being late.
 
 ## Tech snapshot
 
-`Static Frontend` · `Supabase Auth` · `PostgreSQL + RLS` · `Vercel` · `PayPal Subscriptions` · `ESPN Live Data` · `AI Modeling` · `Mathematical Projections`
+`Neural Networks` · `Deep Learning` · `Machine Learning` · `AI Inference` · `Real-Time Analytics` · `Predictive Modeling` · `Prop Intelligence` · `Market-Aware AI`
 
 ---
 
